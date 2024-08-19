@@ -1,17 +1,16 @@
-
-<h2 align="left">About me</h2>
-
-<p align="left">✨ Creating solutions since 2022<br>📚 I'm currently learning advanced data structures and algorithms<br>🎯 Goals: To become a leading expert in Full Stack development and contribute to impactful projects<br>🎲 Fun fact: I enjoy optimizing code for performance and scalability.</p>
-
 <h1 align="center">Hi 👋, I'm Batsi Gottlieb</h1>
-###
 
 <p align="left">I'm a dedicated Full Stack Developer with a deep passion for crafting both comprehensive and interactive web applications. With expertise in both frontend and backend development,
   I focus on creating efficient, scalable, and user-friendly solutions. My proficiency spans a wide range of technologies and frameworks,
   and I am committed to continuous learning and skill enhancement.</p>
 
 
-###
+<h2 align="left">About me</h2>
+
+<p align="left">✨ Creating solutions since 2022<br>📚 I'm currently learning advanced data structures and algorithms<br>🎯 Goals: To become a leading expert in Full Stack development and contribute to impactful projects<br>🎲 Fun fact: I enjoy optimizing code for performance and scalability.</p>
+
+
+
 <h3 align="center">A passionate fronend developer from India</h3>
 
 <h3 align="left">Connect with me:</h3>
