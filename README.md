@@ -7,7 +7,8 @@
 
 <h2 align="left">About me</h2>
 
-<p align="left">✨ Creating solutions since 2022<br>📚 I'm currently learning advanced data structures and algorithms<br>🎯 Goals: To become a leading expert in Full Stack development and contribute to impactful projects<br>🎲 Fun fact: I enjoy optimizing code for performance and scalability.</p>
+<p align="left">🌱Passionate about continuous learning and staying up-to-date with the latest industry trends and technologies,
+  with a strong desire to acquire new skills and evolve professionally.<br>🤝 Believes in the power of teamwork and continuous improvement, committed to growing and enhancing skills to make a significant impact on project success.<br>🔍 Detail-oriented and responsible, ensuring a professional and focused approach to problem-solving with a commitment to delivering high-quality solutions. <br>💡 Dedicated to maximizing the potential of every project while maintaining a strong focus on delivering value and innovation through rigorous attention to detail and effective collaboration.</p>
 
 
 
