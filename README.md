@@ -12,7 +12,7 @@
 
 
 
-<h2 align="center"> Languages and Tools:</h2>
+<h2 align="center"> Languages and Tools</h2>
 <h2 align="left">Programming Languages:</h2>
 <p align="left">
     <a href="https://www.java.com" target="_blank" rel="noreferrer">
