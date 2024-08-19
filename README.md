@@ -11,9 +11,9 @@
 
 
 
-<h3 align="left">Languages and Tools:</h3>
 
-<h4 align="left">Programming Languages:</h4>
+<h2 align="center"> Languages and Tools:</h2>
+<h2 align="left">Programming Languages:</h2>
 <p align="left">
     <a href="https://www.java.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
@@ -37,8 +37,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
     </a>
 </p>
-
-<h4 align="left">Frameworks and Libraries:</h4>
+<h2 align="left">Frameworks and Libraries:</h2>
 <p align="left">
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
@@ -83,8 +82,8 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="mui" width="40" height="40"/>
     </a>
 </p>
+<h2 align="left">Databases:</h2>
 
-<h4 align="left">Databases:</h4>
 <p align="left">
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
