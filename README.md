@@ -1,12 +1,11 @@
-כמובן! הנה דף README מעוצב ומנוסח מימין לשמאל:
-
----
 
 <h1 align="left">Hey 👋 I'm Batsi Gottlieb</h1>
 
 ###
 
-<p align="left">My name is Batsi Gottlieb and I'm a Full Stack Developer from Rehovot, Israel.</p>
+<p align="left">I'm a passionate Full Stack Developer with extensive experience in building comprehensive and interactive web applications. 
+  Specializing in both frontend and backend development, I excel at creating efficient, user-friendly solutions.
+  I am proficient in a variety of technologies and frameworks and continuously strive to expand my skills and knowledge.</p>
 
 ###
 
