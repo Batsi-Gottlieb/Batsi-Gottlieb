@@ -68,8 +68,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
     </a>
 </p>
-
-<h4 align="left">Tools:</h4>
+<h2 align="left">Tools</h2>
 <p align="left">
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
         <img src=" " alt="git" width="40" height="40"/>
